@@ -95,6 +95,6 @@ Boas práticas e observações
 
 Autores
 ---------------
-Davi Brito Machado
-Djalma Felipe de Sousa Neto
-Hilton Medeiros Amorim
+- Davi Brito Machado
+- Djalma Felipe de Sousa Neto
+- Hilton Medeiros Amorim
