@@ -93,6 +93,8 @@ Boas práticas e observações
 - Mantenha testes pequenos e independentes; use bases de teste isoladas.
 - Para comparação de desempenho, documente cenários (payloads, número de usuários, métricas).
 
-Contato / Autor
+Autores
 ---------------
-Trabalho de conclusão (TCC) — implementação para análise comparativa entre FastAPI, Flask e Django.
+Davi Brito Machado
+Djalma Felipe de Sousa Neto
+Hilton Medeiros Amorim
